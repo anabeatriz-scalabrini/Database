@@ -1,4 +1,4 @@
-﻿# Retail Store Database Management (Lojas Render) 🏬
+﻿# Retail Store Database Management (Lojas Render)
 
 This repository contains the complete relational database architecture, implementation, and data analysis scripts for a fictional clothing retail chain ("Lojas Render"). 
 
